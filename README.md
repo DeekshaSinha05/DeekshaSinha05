@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey Hi, I'm Deeksha Sinha 👋
 
-<!--
-**DeekshaSinha05/DeekshaSinha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glad to see you here! I'm a **Software Engineer, Web Developer** 💻
+I love Open Source, Web Dev, AI and Cloud 🚀
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠   I'm currently pursuing my masters degree from **Northeastern University**
+- 🚀   Exploring new technologies like **Machine Learning and practical AI**.
+- 💬   I write blogs at **gotta add medium link**!
+
+---
+
+## 📌 Pinned Projects
+
+### 🔥 Featured Projects  
+- **** - Short description.  
+- **** - Another short description.  
+
+---
+
+## ⚡ Tech Stack & Tools
+
+---
+
+## 📊 GitHub Stats & Activity
+
+---
+
+## 🏆 GitHub Achievements
+
+---
+
+## 📫 Connect with Me
+
+---
+
+## 🔥 Fun Fact
+
+
