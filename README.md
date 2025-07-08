@@ -45,7 +45,7 @@ A student-led innovation hub at Northeastern for building real-world apps.
 ## 📫 Let's Connect
 
 - ✉️ [LinkedIn](https://www.linkedin.com/in/deeksha-sinha/)
-- 🌐 [Portfolio Website](https://deekshasinha.dev) *(if available)*
+- 🌐 [Portfolio Website] TODO
 - 🧠 Currently exploring: **AI Agents**, **Cognitive Architectures**, **CareerTech**
 
 ---
