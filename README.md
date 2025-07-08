@@ -37,14 +37,14 @@ A student-led innovation hub at Northeastern for building real-world apps.
 
 ## 📊 GitHub Stats
 
-![Deeksha's GitHub Stats](https://www.linkedin.com/in/deekshads/&show_icons=true&theme=tokyonight&hide_rank=true)  
+![Deeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeekshaSinha05&show_icons=true&theme=tokyonight&hide_rank=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaSinha05&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-- ✉️ [LinkedIn](https://www.linkedin.com/in/deeksha-sinha/)
+- ✉️ [LinkedIn](https://www.linkedin.com/in/deekshads/)
 - 🌐 [Portfolio Website] TODO
 - 🧠 Currently exploring: **AI Agents**, **Cognitive Architectures**, **CareerTech**
 
