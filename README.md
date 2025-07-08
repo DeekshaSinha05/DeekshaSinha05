@@ -1,72 +1,53 @@
-# Hey Hi, I'm Deeksha Sinha 👋
+# 👋 Hi, I'm Deeksha Sinha
 
-Welcome to my GitHub!  
-I'm a **Software Engineer** and **Web Developer** 💻 who thrives on building cool things, learning continuously, and contributing to open-source.  
-Currently diving deep into **AI, Cloud**, and **Machine Learning** 🚀
+I'm a passionate Computer Science Master's student at Northeastern University (Seattle) with a focus on building impactful AI-powered products and community-driven technology initiatives.
 
 ---
 
-## 🚀 What I'm Working On
+## 🔑 Key Projects
 
-- 🎓 Pursuing my Master's in Computer Science @ **Northeastern University**
-- 🤖 Exploring **Machine Learning** and **Practical AI** applications
-- ✍️ Writing tech blogs on [Medium](https://your-medium-link.com) *(link coming soon!)*
-- 💡 Building fun and impactful side projects to sharpen my skills
+### 🧠 Hirely.AI – AI-first Recruiting Platform  
+A Generative AI-powered platform to streamline hiring for startups and growing teams.  
+→ Built end-to-end using **LangChain**, **OpenAI**, and **vector databases**  
+→ Automates job matching, candidate ranking, and outreach  
+🔗 [View Repository](https://github.com/DeekshaSinha05/Hirely.AI)
+
+### 🧭 LlamaCompass – Autonomous Agentic AI System  
+An open-source GenAI agent framework built on **LlamaIndex**, **LangGraph**, and **OpenAI**.  
+→ Enables fully autonomous multi-step reasoning with memory and planning  
+→ Focused on integrating **RAG**, **tool use**, and **reflection**  
+🔗 [View Repository](https://github.com/anigasan/LlamaCompass)
+
+### 💡 NU App Lab – Founder  
+A student-led innovation hub at Northeastern for building real-world apps.  
+→ Founded and lead NU’s App Lab chapter to build impactful tools  
+→ Mentored teams and organized GenAI bootcamps + product sprints
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Skills
 
-Here are a few standout repositories:
-
-- [**Project Name 1**](https://github.com/DeekshaSinha05/your-project1) – Brief one-liner about what it does or solves.
-- [**Project Name 2**](https://github.com/DeekshaSinha05/your-project2) – Highlight a cool feature or tech used.
-- [**Project Name 3**](https://github.com/DeekshaSinha05/your-project3) – Maybe mention results or purpose.
-*(Update these with actual links and meaningful summaries)*
-
----
-
-## ⚡ Tech Stack & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-*(Feel free to add or remove based on your stack)*
+**Languages:** Python, Java, JavaScript, SQL  
+**Frameworks:** React, Node.js, Flask, Spring  
+**AI/ML:** LangChain, OpenAI, LlamaIndex, TensorFlow, scikit-learn  
+**Tools:** Git, Docker, Postman, MongoDB, Firebase  
+**Cloud:** AWS (EC2, Lambda, S3), GCP (Firestore, Vertex AI)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Deeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeekshaSinha05&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaSinha05&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Achievements
-
-<!-- You can add specific badges or achievements from your profile -->
-🏅 Open Source Contributor  
-📈 100+ Commits in 2024  
-👯‍♀️ Active in Developer Communities  
-*(Add more as you gain milestones)*
+![Deeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeekshaSinha05&show_icons=true&theme=tokyonight&hide_rank=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaSinha05&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deekshasinha05/)
-- 🐦 [Twitter / X](https://twitter.com/yourhandle) *(if applicable)*
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- ✉️ [LinkedIn](https://www.linkedin.com/in/deeksha-sinha/)
+- 🌐 [Portfolio Website](https://deekshasinha.dev) *(if available)*
+- 🧠 Currently exploring: **AI Agents**, **Cognitive Architectures**, **CareerTech**
 
 ---
 
-## 🔥 Fun Fact
-
-I probably have more README drafts than actual projects... but hey, great documentation is half the work! 😄
+✨ _“I believe in learning by building — whether it’s an AI resume bot or an app to help students thrive.”_
